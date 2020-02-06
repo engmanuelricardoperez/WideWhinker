@@ -1,0 +1,5 @@
+<h1>Datos IoT</h1>
+<div *ngFor="let dashboard of dashboards">
+  <dashboard-details [dashboard]='dashboard'></dashboard-details>
+  <app-graph></app-graph>
+</div>
