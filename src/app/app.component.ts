@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Plataforma Agrónica U.P.T.C.';
-  description = 'IoT - Agriculture';
+  title = 'Wide Whinker';
+  description = 'Plataforma de Innovación';
 }
